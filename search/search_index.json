@@ -11,184 +11,194 @@
             "title": "LenoxBot"
         }, 
         {
-            "location": "/gettingstarted/", 
+            "location": "/Getting started/", 
             "text": "Getting started\n\n\nHow to get started with LenoxBot? And an introduction in it's features!", 
             "title": "Getting started"
         }, 
         {
-            "location": "/gettingstarted/#getting-started", 
+            "location": "/Getting started/#getting-started", 
             "text": "How to get started with LenoxBot? And an introduction in it's features!", 
             "title": "Getting started"
         }, 
         {
-            "location": "/General FAQ/Bot/my credits are gone/", 
+            "location": "/General FAQ/Bot/My credits are gone/", 
             "text": "My credits are gone\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone"
         }, 
         {
-            "location": "/General FAQ/Bot/my credits are gone/#my-credits-are-gone", 
+            "location": "/General FAQ/Bot/My credits are gone/#my-credits-are-gone", 
             "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?   In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone"
         }, 
         {
-            "location": "/General FAQ/Help/support/", 
+            "location": "/General FAQ/Help/Support/", 
             "text": "Support\n\n\nThere is more than one possibility to receive support. Here is a list of all support sources:\n\n\n\n\nSupport Discord Server\n\n\nTicket on our support discord Server\n\n\nDocumentation\n\n\nWebsite LiveChat\n\n\n\n\nSupport Discord Server\n\n\nWe set up a discord server where you can discuss with users of our Bot and ask all your questions that you have.\nWe offer support in all languages, which are also available for LenoxBot.\n\n\n \n\n\nCreate a ticket on our Support Discord server\n\n\nRead through our documentation\n\n\nLiveChat", 
             "title": "Support"
         }, 
         {
-            "location": "/General FAQ/Help/support/#support", 
+            "location": "/General FAQ/Help/Support/#support", 
             "text": "There is more than one possibility to receive support. Here is a list of all support sources:   Support Discord Server  Ticket on our support discord Server  Documentation  Website LiveChat", 
             "title": "Support"
         }, 
         {
-            "location": "/General FAQ/Help/support/#support-discord-server", 
+            "location": "/General FAQ/Help/Support/#support-discord-server", 
             "text": "We set up a discord server where you can discuss with users of our Bot and ask all your questions that you have.\nWe offer support in all languages, which are also available for LenoxBot.", 
             "title": "Support Discord Server"
         }, 
         {
-            "location": "/General FAQ/Help/support/#create-a-ticket-on-our-support-discord-server", 
+            "location": "/General FAQ/Help/Support/#create-a-ticket-on-our-support-discord-server", 
             "text": "", 
             "title": "Create a ticket on our Support Discord server"
         }, 
         {
-            "location": "/General FAQ/Help/support/#read-through-our-documentation", 
+            "location": "/General FAQ/Help/Support/#read-through-our-documentation", 
             "text": "", 
             "title": "Read through our documentation"
         }, 
         {
-            "location": "/General FAQ/Help/support/#livechat", 
+            "location": "/General FAQ/Help/Support/#livechat", 
             "text": "", 
             "title": "LiveChat"
         }, 
         {
-            "location": "/General FAQ/Website/dashboard/", 
-            "text": "Dashboard\n\n\nWhat offers our Dashboard?", 
+            "location": "/General FAQ/Website/Dashboard/", 
+            "text": "Dashboard\n\n\nWhat offers our Dashboard?\nWhere can I find the Dashboard?", 
+            "title": "Dashboard of LenoxBot"
+        }, 
+        {
+            "location": "/General FAQ/Website/Dashboard/#dashboard", 
+            "text": "What offers our Dashboard?\nWhere can I find the Dashboard?", 
             "title": "Dashboard"
         }, 
         {
-            "location": "/General FAQ/Website/dashboard/#dashboard", 
-            "text": "What offers our Dashboard?", 
-            "title": "Dashboard"
-        }, 
-        {
-            "location": "/Tutorials/application module/", 
-            "text": "Set up application module\n\n\nHow to set up the application module", 
-            "title": "Set up application module"
-        }, 
-        {
-            "location": "/Tutorials/application module/#set-up-application-module", 
-            "text": "How to set up the application module", 
-            "title": "Set up application module"
-        }, 
-        {
-            "location": "/Commands/administration/", 
+            "location": "/Modules/Administration/", 
             "text": "Administration commands\n\n\nCommands explained", 
             "title": "Administration"
         }, 
         {
-            "location": "/Commands/administration/#administration-commands", 
+            "location": "/Modules/Administration/#administration-commands", 
             "text": "Commands explained", 
             "title": "Administration commands"
         }, 
         {
-            "location": "/Commands/moderation/", 
-            "text": "Moderation commands\n\n\nCommands explained", 
-            "title": "Moderation"
-        }, 
-        {
-            "location": "/Commands/moderation/#moderation-commands", 
-            "text": "Commands explained", 
-            "title": "Moderation commands"
-        }, 
-        {
-            "location": "/Commands/help/", 
-            "text": "Help commands\n\n\nCommands explained", 
-            "title": "Help"
-        }, 
-        {
-            "location": "/Commands/help/#help-commands", 
-            "text": "Commands explained", 
-            "title": "Help commands"
-        }, 
-        {
-            "location": "/Commands/music/", 
-            "text": "Music commands\n\n\nCommands explained", 
-            "title": "Music"
-        }, 
-        {
-            "location": "/Commands/music/#music-commands", 
-            "text": "Commands explained", 
-            "title": "Music commands"
-        }, 
-        {
-            "location": "/Commands/fun/", 
-            "text": "Fun commands\n\n\nCommands explained", 
-            "title": "Fun"
-        }, 
-        {
-            "location": "/Commands/fun/#fun-commands", 
-            "text": "Commands explained", 
-            "title": "Fun commands"
-        }, 
-        {
-            "location": "/Commands/searches/", 
-            "text": "Searches commands\n\n\nCommands explained", 
-            "title": "Searches"
-        }, 
-        {
-            "location": "/Commands/searches/#searches-commands", 
-            "text": "Commands explained", 
-            "title": "Searches commands"
-        }, 
-        {
-            "location": "/Commands/nsfw/", 
-            "text": "NSFW commands\n\n\nCommands explained", 
-            "title": "NSFW"
-        }, 
-        {
-            "location": "/Commands/nsfw/#nsfw-commands", 
-            "text": "Commands explained", 
-            "title": "NSFW commands"
-        }, 
-        {
-            "location": "/Commands/utility/", 
-            "text": "Utility commands\n\n\nCommands explained", 
-            "title": "Utility"
-        }, 
-        {
-            "location": "/Commands/utility/#utility-commands", 
-            "text": "Commands explained", 
-            "title": "Utility commands"
-        }, 
-        {
-            "location": "/Commands/application/", 
+            "location": "/Modules/Application/", 
             "text": "Application commands\n\n\nCommands explained", 
             "title": "Application"
         }, 
         {
-            "location": "/Commands/application/#application-commands", 
+            "location": "/Modules/Application/#application-commands", 
             "text": "Commands explained", 
             "title": "Application commands"
         }, 
         {
-            "location": "/Commands/currency/", 
+            "location": "/Modules/Currency/", 
             "text": "Currency commands\n\n\nCommands explained", 
             "title": "Currency"
         }, 
         {
-            "location": "/Commands/currency/#currency-commands", 
+            "location": "/Modules/Currency/#currency-commands", 
             "text": "Commands explained", 
             "title": "Currency commands"
         }, 
         {
-            "location": "/Commands/tickets/", 
+            "location": "/Modules/Fun/", 
+            "text": "Fun commands\n\n\nCommands explained", 
+            "title": "Fun"
+        }, 
+        {
+            "location": "/Modules/Fun/#fun-commands", 
+            "text": "Commands explained", 
+            "title": "Fun commands"
+        }, 
+        {
+            "location": "/Modules/Help/", 
+            "text": "Help commands\n\n\nCommands explained", 
+            "title": "Help"
+        }, 
+        {
+            "location": "/Modules/Help/#help-commands", 
+            "text": "Commands explained", 
+            "title": "Help commands"
+        }, 
+        {
+            "location": "/Modules/Moderation/", 
+            "text": "Moderation commands\n\n\nCommands explained", 
+            "title": "Moderation"
+        }, 
+        {
+            "location": "/Modules/Moderation/#moderation-commands", 
+            "text": "Commands explained", 
+            "title": "Moderation commands"
+        }, 
+        {
+            "location": "/Modules/Music/", 
+            "text": "Music commands\n\n\nCommands explained", 
+            "title": "Music"
+        }, 
+        {
+            "location": "/Modules/Music/#music-commands", 
+            "text": "Commands explained", 
+            "title": "Music commands"
+        }, 
+        {
+            "location": "/Modules/NSFW/", 
+            "text": "NSFW commands\n\n\nCommands explained", 
+            "title": "NSFW"
+        }, 
+        {
+            "location": "/Modules/NSFW/#nsfw-commands", 
+            "text": "Commands explained", 
+            "title": "NSFW commands"
+        }, 
+        {
+            "location": "/Modules/Searches/", 
+            "text": "Searches commands\n\n\nCommands explained", 
+            "title": "Searches"
+        }, 
+        {
+            "location": "/Modules/Searches/#searches-commands", 
+            "text": "Commands explained", 
+            "title": "Searches commands"
+        }, 
+        {
+            "location": "/Modules/Tickets/", 
             "text": "Tickets commands\n\n\nCommands explained", 
             "title": "Tickets"
         }, 
         {
-            "location": "/Commands/tickets/#tickets-commands", 
+            "location": "/Modules/Tickets/#tickets-commands", 
             "text": "Commands explained", 
             "title": "Tickets commands"
+        }, 
+        {
+            "location": "/Modules/Utility/", 
+            "text": "Utility commands\n\n\nCommands explained", 
+            "title": "Utility"
+        }, 
+        {
+            "location": "/Modules/Utility/#utility-commands", 
+            "text": "Commands explained", 
+            "title": "Utility commands"
+        }, 
+        {
+            "location": "/Tutorials/Invite LenoxBot/", 
+            "text": "Invite LenoxBot\n\n\nExplain how to invite the bot on a discord server", 
+            "title": "Invite LenoxBot"
+        }, 
+        {
+            "location": "/Tutorials/Invite LenoxBot/#invite-lenoxbot", 
+            "text": "Explain how to invite the bot on a discord server", 
+            "title": "Invite LenoxBot"
+        }, 
+        {
+            "location": "/Tutorials/Set up the application module/", 
+            "text": "Set up application module\n\n\nHow to set up the application module", 
+            "title": "Set up the application module"
+        }, 
+        {
+            "location": "/Tutorials/Set up the application module/#set-up-application-module", 
+            "text": "How to set up the application module", 
+            "title": "Set up application module"
         }
     ]
 }
