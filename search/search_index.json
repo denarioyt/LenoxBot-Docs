@@ -12,33 +12,23 @@
         }, 
         {
             "location": "/gettingstarted/", 
-            "text": "Getting started\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Getting started\n\n\nHow to get started with LenoxBot? And an introduction in it's features!", 
             "title": "Getting started"
         }, 
         {
             "location": "/gettingstarted/#getting-started", 
-            "text": "For full documentation visit  mkdocs.org .", 
+            "text": "How to get started with LenoxBot? And an introduction in it's features!", 
             "title": "Getting started"
         }, 
         {
-            "location": "/gettingstarted/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/gettingstarted/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
-        }, 
-        {
             "location": "/General FAQ/Bot/my credits are gone/", 
-            "text": "My credits are gone. What can I do?\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
-            "title": "My credits are gone. What can I do?"
+            "text": "My credits are gone\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
+            "title": "My credits are gone"
         }, 
         {
-            "location": "/General FAQ/Bot/my credits are gone/#my-credits-are-gone-what-can-i-do", 
+            "location": "/General FAQ/Bot/my credits are gone/#my-credits-are-gone", 
             "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?   In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
-            "title": "My credits are gone. What can I do?"
+            "title": "My credits are gone"
         }, 
         {
             "location": "/General FAQ/Help/support/", 
@@ -72,23 +62,133 @@
         }, 
         {
             "location": "/General FAQ/Website/dashboard/", 
-            "text": "Dashboard\n\n\nWe spent hours programming a nice dashboard for our bot users where everyone can manage \nalmost\n all settings of LenoxBot", 
+            "text": "Dashboard\n\n\nWhat offers our Dashboard?", 
             "title": "Dashboard"
         }, 
         {
             "location": "/General FAQ/Website/dashboard/#dashboard", 
-            "text": "We spent hours programming a nice dashboard for our bot users where everyone can manage  almost  all settings of LenoxBot", 
+            "text": "What offers our Dashboard?", 
             "title": "Dashboard"
         }, 
         {
-            "location": "/Tutorials/set up application module/", 
-            "text": "Set up application module\n\n\nContent here", 
+            "location": "/Tutorials/application module/", 
+            "text": "Set up application module\n\n\nHow to set up the application module", 
             "title": "Set up application module"
         }, 
         {
-            "location": "/Tutorials/set up application module/#set-up-application-module", 
-            "text": "Content here", 
+            "location": "/Tutorials/application module/#set-up-application-module", 
+            "text": "How to set up the application module", 
             "title": "Set up application module"
+        }, 
+        {
+            "location": "/Commands/administration/", 
+            "text": "Administration commands\n\n\nCommands explained", 
+            "title": "Administration"
+        }, 
+        {
+            "location": "/Commands/administration/#administration-commands", 
+            "text": "Commands explained", 
+            "title": "Administration commands"
+        }, 
+        {
+            "location": "/Commands/moderation/", 
+            "text": "Moderation commands\n\n\nCommands explained", 
+            "title": "Moderation"
+        }, 
+        {
+            "location": "/Commands/moderation/#moderation-commands", 
+            "text": "Commands explained", 
+            "title": "Moderation commands"
+        }, 
+        {
+            "location": "/Commands/help/", 
+            "text": "Help commands\n\n\nCommands explained", 
+            "title": "Help"
+        }, 
+        {
+            "location": "/Commands/help/#help-commands", 
+            "text": "Commands explained", 
+            "title": "Help commands"
+        }, 
+        {
+            "location": "/Commands/music/", 
+            "text": "Music commands\n\n\nCommands explained", 
+            "title": "Music"
+        }, 
+        {
+            "location": "/Commands/music/#music-commands", 
+            "text": "Commands explained", 
+            "title": "Music commands"
+        }, 
+        {
+            "location": "/Commands/fun/", 
+            "text": "Fun commands\n\n\nCommands explained", 
+            "title": "Fun"
+        }, 
+        {
+            "location": "/Commands/fun/#fun-commands", 
+            "text": "Commands explained", 
+            "title": "Fun commands"
+        }, 
+        {
+            "location": "/Commands/searches/", 
+            "text": "Searches commands\n\n\nCommands explained", 
+            "title": "Searches"
+        }, 
+        {
+            "location": "/Commands/searches/#searches-commands", 
+            "text": "Commands explained", 
+            "title": "Searches commands"
+        }, 
+        {
+            "location": "/Commands/nsfw/", 
+            "text": "NSFW commands\n\n\nCommands explained", 
+            "title": "NSFW"
+        }, 
+        {
+            "location": "/Commands/nsfw/#nsfw-commands", 
+            "text": "Commands explained", 
+            "title": "NSFW commands"
+        }, 
+        {
+            "location": "/Commands/utility/", 
+            "text": "Utility commands\n\n\nCommands explained", 
+            "title": "Utility"
+        }, 
+        {
+            "location": "/Commands/utility/#utility-commands", 
+            "text": "Commands explained", 
+            "title": "Utility commands"
+        }, 
+        {
+            "location": "/Commands/application/", 
+            "text": "Application commands\n\n\nCommands explained", 
+            "title": "Application"
+        }, 
+        {
+            "location": "/Commands/application/#application-commands", 
+            "text": "Commands explained", 
+            "title": "Application commands"
+        }, 
+        {
+            "location": "/Commands/currency/", 
+            "text": "Currency commands\n\n\nCommands explained", 
+            "title": "Currency"
+        }, 
+        {
+            "location": "/Commands/currency/#currency-commands", 
+            "text": "Commands explained", 
+            "title": "Currency commands"
+        }, 
+        {
+            "location": "/Commands/tickets/", 
+            "text": "Tickets commands\n\n\nCommands explained", 
+            "title": "Tickets"
+        }, 
+        {
+            "location": "/Commands/tickets/#tickets-commands", 
+            "text": "Commands explained", 
+            "title": "Tickets commands"
         }
     ]
 }
