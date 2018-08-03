@@ -31,9 +31,14 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/General FAQ/Bot/test1/", 
-            "text": "Hello", 
-            "title": "Test"
+            "location": "/General FAQ/Bot/my credits are gone/", 
+            "text": "My credits are gone. What can I do?\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations: \n\n Your discord username \n\n Your UserID\n\n When did you have your credits? \n\n Which commands did you use before your credits disappear?\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
+            "title": "My credits are gone. What can I do?"
+        }, 
+        {
+            "location": "/General FAQ/Bot/my credits are gone/#my-credits-are-gone-what-can-i-do", 
+            "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?  In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
+            "title": "My credits are gone. What can I do?"
         }, 
         {
             "location": "/General FAQ/Bot/test1/", 
