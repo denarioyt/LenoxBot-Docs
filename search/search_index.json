@@ -32,28 +32,43 @@
         }, 
         {
             "location": "/General FAQ/Bot/my credits are gone/", 
-            "text": "My credits are gone. What can I do?\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations: \n\n Your discord username \n\n Your UserID\n\n When did you have your credits? \n\n Which commands did you use before your credits disappear?\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
+            "text": "My credits are gone. What can I do?\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone. What can I do?"
         }, 
         {
             "location": "/General FAQ/Bot/my credits are gone/#my-credits-are-gone-what-can-i-do", 
-            "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?  In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
+            "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?   In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone. What can I do?"
         }, 
         {
-            "location": "/General FAQ/Bot/test1/", 
-            "text": "Hello", 
-            "title": "Test"
+            "location": "/General FAQ/Help/where can I receive support/", 
+            "text": "Where can I receive support?\n\n\nThere are more than one possibility to receive support:\n\n\n\n\nJoin \nour Discord Server\n and ask our Discord Member and/or the LenoxBot Team\n\n\nCreate a ticket on \nour Discord Server\n Discord Server using the command \n?ticket {your question}\n\n\nRead through our documentation", 
+            "title": "Where can I receive support?"
         }, 
         {
-            "location": "/General FAQ/Bot/test1/", 
-            "text": "Hello", 
-            "title": "Test"
+            "location": "/General FAQ/Help/where can I receive support/#where-can-i-receive-support", 
+            "text": "There are more than one possibility to receive support:   Join  our Discord Server  and ask our Discord Member and/or the LenoxBot Team  Create a ticket on  our Discord Server  Discord Server using the command  ?ticket {your question}  Read through our documentation", 
+            "title": "Where can I receive support?"
         }, 
         {
-            "location": "/Tutorials/test2/", 
-            "text": "Test", 
-            "title": "Test"
+            "location": "/General FAQ/Website/dashboard/", 
+            "text": "Dashboard\n\n\nWe spent hours programming a nice dashboard for our bot users where everyone can manage \nalmost\n all settings of LenoxBot", 
+            "title": "Dashboard"
+        }, 
+        {
+            "location": "/General FAQ/Website/dashboard/#dashboard", 
+            "text": "We spent hours programming a nice dashboard for our bot users where everyone can manage  almost  all settings of LenoxBot", 
+            "title": "Dashboard"
+        }, 
+        {
+            "location": "/Tutorials/set up application module/", 
+            "text": "Set up application module\n\n\nContent here", 
+            "title": "Set up application module"
+        }, 
+        {
+            "location": "/Tutorials/set up application module/#set-up-application-module", 
+            "text": "Content here", 
+            "title": "Set up application module"
         }
     ]
 }
