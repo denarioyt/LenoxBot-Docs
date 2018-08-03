@@ -41,14 +41,34 @@
             "title": "My credits are gone. What can I do?"
         }, 
         {
-            "location": "/General FAQ/Help/where can I receive support/", 
-            "text": "Where can I receive support?\n\n\nThere are more than one possibility to receive support:\n\n\n\n\nJoin \nour Discord Server\n and ask our Discord Member and/or the LenoxBot Team\n\n\nCreate a ticket on \nour Discord Server\n Discord Server using the command \n?ticket {your question}\n\n\nRead through our documentation", 
-            "title": "Where can I receive support?"
+            "location": "/General FAQ/Help/support/", 
+            "text": "Support\n\n\nThere is more than one possibility to receive support. Here is a list of all support sources:\n\n\n\n\nSupport Discord Server\n\n\nTicket on our support discord Server\n\n\nDocumentation\n\n\nWebsite LiveChat\n\n\n\n\nSupport Discord Server\n\n\nWe set up a discord server where you can discuss with users of our Bot and ask all your questions that you have.\nWe offer support in all languages, which are also available for LenoxBot.\n\n\n \n\n\nCreate a ticket on our Support Discord server\n\n\nRead through our documentation\n\n\nLiveChat", 
+            "title": "Support"
         }, 
         {
-            "location": "/General FAQ/Help/where can I receive support/#where-can-i-receive-support", 
-            "text": "There are more than one possibility to receive support:   Join  our Discord Server  and ask our Discord Member and/or the LenoxBot Team  Create a ticket on  our Discord Server  Discord Server using the command  ?ticket {your question}  Read through our documentation", 
-            "title": "Where can I receive support?"
+            "location": "/General FAQ/Help/support/#support", 
+            "text": "There is more than one possibility to receive support. Here is a list of all support sources:   Support Discord Server  Ticket on our support discord Server  Documentation  Website LiveChat", 
+            "title": "Support"
+        }, 
+        {
+            "location": "/General FAQ/Help/support/#support-discord-server", 
+            "text": "We set up a discord server where you can discuss with users of our Bot and ask all your questions that you have.\nWe offer support in all languages, which are also available for LenoxBot.", 
+            "title": "Support Discord Server"
+        }, 
+        {
+            "location": "/General FAQ/Help/support/#create-a-ticket-on-our-support-discord-server", 
+            "text": "", 
+            "title": "Create a ticket on our Support Discord server"
+        }, 
+        {
+            "location": "/General FAQ/Help/support/#read-through-our-documentation", 
+            "text": "", 
+            "title": "Read through our documentation"
+        }, 
+        {
+            "location": "/General FAQ/Help/support/#livechat", 
+            "text": "", 
+            "title": "LiveChat"
         }, 
         {
             "location": "/General FAQ/Website/dashboard/", 
