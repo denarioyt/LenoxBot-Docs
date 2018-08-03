@@ -21,6 +21,16 @@
             "title": "Getting started"
         }, 
         {
+            "location": "/Donate/Donate/", 
+            "text": "Donate now!", 
+            "title": "Donate"
+        }, 
+        {
+            "location": "/Donate/Donate/#donate-now", 
+            "text": "", 
+            "title": "Donate now!"
+        }, 
+        {
             "location": "/General FAQ/Bot/Earn credits/", 
             "text": "How to earn credits?", 
             "title": "Earn credits"
@@ -42,12 +52,12 @@
         }, 
         {
             "location": "/General FAQ/Bot/Reminder of daily/", 
-            "text": "Reminder of daily", 
+            "text": "Reminder of daily\n\n\nYou want a reminder for your daily rewards? That's no problem!\nUse the command \n?dailyremind\n and your daily reminder is activated. \n\n\nIf you want to delete the daily reminder, you must only use the command again.\nYou don't understand the command? Use \n?help dailyremind\n:", 
             "title": "Reminder of daily"
         }, 
         {
             "location": "/General FAQ/Bot/Reminder of daily/#reminder-of-daily", 
-            "text": "", 
+            "text": "You want a reminder for your daily rewards? That's no problem!\nUse the command  ?dailyremind  and your daily reminder is activated.   If you want to delete the daily reminder, you must only use the command again.\nYou don't understand the command? Use  ?help dailyremind :", 
             "title": "Reminder of daily"
         }, 
         {
@@ -152,12 +162,12 @@
         }, 
         {
             "location": "/General FAQ/Team/Translator/", 
-            "text": "How to become a translator of LenoxBot?", 
+            "text": "How to become a translator of LenoxBot?\n\n\nYou want to be a \ntranslator\n? \nContanct \nDanNick#8108\n via Discord or \n@DanNick_MC via Twitter", 
             "title": "Translator"
         }, 
         {
             "location": "/General FAQ/Team/Translator/#how-to-become-a-translator-of-lenoxbot", 
-            "text": "", 
+            "text": "You want to be a  translator ? \nContanct  DanNick#8108  via Discord or  @DanNick_MC via Twitter", 
             "title": "How to become a translator of LenoxBot?"
         }, 
         {
@@ -172,12 +182,12 @@
         }, 
         {
             "location": "/Modules/Administration/", 
-            "text": "Administration commands\n\n\nCommands explained", 
+            "text": "Administration commands\n\n\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server\n\n\n?activatemodule/?am\n- Activates a module and its commands on a Discord server", 
             "title": "Administration"
         }, 
         {
             "location": "/Modules/Administration/#administration-commands", 
-            "text": "Commands explained", 
+            "text": "?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server  ?activatemodule/?am - Activates a module and its commands on a Discord server", 
             "title": "Administration commands"
         }, 
         {
