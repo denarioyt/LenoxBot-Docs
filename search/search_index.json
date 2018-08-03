@@ -21,6 +21,16 @@
             "title": "Getting started"
         }, 
         {
+            "location": "/General FAQ/Bot/Earn credits/", 
+            "text": "How to earn credits?", 
+            "title": "Earn credits"
+        }, 
+        {
+            "location": "/General FAQ/Bot/Earn credits/#how-to-earn-credits", 
+            "text": "", 
+            "title": "How to earn credits?"
+        }, 
+        {
             "location": "/General FAQ/Bot/My credits are gone/", 
             "text": "My credits are gone\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone"
@@ -29,6 +39,46 @@
             "location": "/General FAQ/Bot/My credits are gone/#my-credits-are-gone", 
             "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?   In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone"
+        }, 
+        {
+            "location": "/General FAQ/Bot/Reminder of daily/", 
+            "text": "Reminder of daily", 
+            "title": "Reminder of daily"
+        }, 
+        {
+            "location": "/General FAQ/Bot/Reminder of daily/#reminder-of-daily", 
+            "text": "", 
+            "title": "Reminder of daily"
+        }, 
+        {
+            "location": "/General FAQ/Help/Make a proposal/", 
+            "text": "Make a proposal", 
+            "title": "Make a proposal"
+        }, 
+        {
+            "location": "/General FAQ/Help/Make a proposal/#make-a-proposal", 
+            "text": "", 
+            "title": "Make a proposal"
+        }, 
+        {
+            "location": "/General FAQ/Help/Report a bug/", 
+            "text": "Report a bug", 
+            "title": "Report a bug"
+        }, 
+        {
+            "location": "/General FAQ/Help/Report a bug/#report-a-bug", 
+            "text": "", 
+            "title": "Report a bug"
+        }, 
+        {
+            "location": "/General FAQ/Help/Social Media/", 
+            "text": "Social Media\n\n\nAll accounts that we have and what we post on them", 
+            "title": "Social Media"
+        }, 
+        {
+            "location": "/General FAQ/Help/Social Media/#social-media", 
+            "text": "All accounts that we have and what we post on them", 
+            "title": "Social Media"
         }, 
         {
             "location": "/General FAQ/Help/Support/", 
@@ -59,6 +109,56 @@
             "location": "/General FAQ/Help/Support/#livechat", 
             "text": "", 
             "title": "LiveChat"
+        }, 
+        {
+            "location": "/General FAQ/Help/Trello/", 
+            "text": "Trello", 
+            "title": "Trello"
+        }, 
+        {
+            "location": "/General FAQ/Help/Trello/#trello", 
+            "text": "", 
+            "title": "Trello"
+        }, 
+        {
+            "location": "/General FAQ/Team/Designer/", 
+            "text": "How to become a Designer of LenoxBot?", 
+            "title": "Designer"
+        }, 
+        {
+            "location": "/General FAQ/Team/Designer/#how-to-become-a-designer-of-lenoxbot", 
+            "text": "", 
+            "title": "How to become a Designer of LenoxBot?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Documentation-Moderator/", 
+            "text": "How to become a Documentation-Moderator of LenoxBot?", 
+            "title": "Documentation-Moderator"
+        }, 
+        {
+            "location": "/General FAQ/Team/Documentation-Moderator/#how-to-become-a-documentation-moderator-of-lenoxbot", 
+            "text": "", 
+            "title": "How to become a Documentation-Moderator of LenoxBot?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Moderator/", 
+            "text": "How to become a moderator of LenoxBot?", 
+            "title": "Moderator"
+        }, 
+        {
+            "location": "/General FAQ/Team/Moderator/#how-to-become-a-moderator-of-lenoxbot", 
+            "text": "", 
+            "title": "How to become a moderator of LenoxBot?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Translator/", 
+            "text": "How to become a translator of LenoxBot?", 
+            "title": "Translator"
+        }, 
+        {
+            "location": "/General FAQ/Team/Translator/#how-to-become-a-translator-of-lenoxbot", 
+            "text": "", 
+            "title": "How to become a translator of LenoxBot?"
         }, 
         {
             "location": "/General FAQ/Website/Dashboard/", 
@@ -189,6 +289,16 @@
             "location": "/Tutorials/Invite LenoxBot/#invite-lenoxbot", 
             "text": "Explain how to invite the bot on a discord server", 
             "title": "Invite LenoxBot"
+        }, 
+        {
+            "location": "/Tutorials/Send an embed/", 
+            "text": "How to send an embed?", 
+            "title": "Send an embed"
+        }, 
+        {
+            "location": "/Tutorials/Send an embed/#how-to-send-an-embed", 
+            "text": "", 
+            "title": "How to send an embed?"
         }, 
         {
             "location": "/Tutorials/Set up the application module/", 
