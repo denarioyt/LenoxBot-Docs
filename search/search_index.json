@@ -1,24 +1,44 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Welcome to MkDocs"
+            "location": "/gettingstarted/", 
+            "text": "Getting started\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Getting started"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
+            "location": "/gettingstarted/#getting-started", 
             "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "title": "Getting started"
         }, 
         {
-            "location": "/#commands", 
+            "location": "/gettingstarted/#commands", 
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
             "title": "Commands"
         }, 
         {
-            "location": "/#project-layout", 
+            "location": "/gettingstarted/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/General FAQ/Bot/test1/", 
+            "text": "Hello", 
+            "title": "Test"
+        }, 
+        {
+            "location": "/General FAQ/Bot/test1/", 
+            "text": "Hello", 
+            "title": "Test"
+        }, 
+        {
+            "location": "/General FAQ/Bot/test1/", 
+            "text": "Hello", 
+            "title": "Test"
+        }, 
+        {
+            "location": "/Tutorials/test2/", 
+            "text": "Test", 
+            "title": "Test"
         }
     ]
 }
