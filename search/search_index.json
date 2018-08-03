@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "LenoxBot Documentation\n\n\nWelcome on the documentation of LenoxBot!", 
-            "title": "LenoxBot Documentation"
+            "text": "LenoxBot\n\n\nWelcome on the documentation of LenoxBot!\n\n\nLenoxBot was created on \nSeptember 5th\n. Since then we have released over \n2000\n updates and spent over \n1000\n hours making the bot more user-friendly than any other bot!\n\n\nOur goal was and still is to provide every botuser an all-in bot so he doesn't have to invite 10 other bots for all the features that he wants to have on his discord server.\n\n\nWe released our own website including the dashboard in May and it offers you a place where you can set up almost all settings of the bot via your browser!\n\n\n\n\nInfo\n\n\nMore about our website and Dashboard can be found \nhere\n.\n\n\n\n\nIf you are a new user of LenoxBot, I would advise you to read on \nGetting started\n so that you will quickly become familiar with LenoxBot!", 
+            "title": "LenoxBot"
         }, 
         {
-            "location": "/#lenoxbot-documentation", 
-            "text": "Welcome on the documentation of LenoxBot!", 
-            "title": "LenoxBot Documentation"
+            "location": "/#lenoxbot", 
+            "text": "Welcome on the documentation of LenoxBot!  LenoxBot was created on  September 5th . Since then we have released over  2000  updates and spent over  1000  hours making the bot more user-friendly than any other bot!  Our goal was and still is to provide every botuser an all-in bot so he doesn't have to invite 10 other bots for all the features that he wants to have on his discord server.  We released our own website including the dashboard in May and it offers you a place where you can set up almost all settings of the bot via your browser!   Info  More about our website and Dashboard can be found  here .   If you are a new user of LenoxBot, I would advise you to read on  Getting started  so that you will quickly become familiar with LenoxBot!", 
+            "title": "LenoxBot"
         }, 
         {
             "location": "/gettingstarted/", 
