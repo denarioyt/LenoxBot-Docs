@@ -22,12 +22,12 @@
         }, 
         {
             "location": "/Donate/Donate/", 
-            "text": "Donate now!", 
+            "text": "Donate now!\n\n\nExplain how to donate the LenoxBot.\n\n\n\n\nClick on the \nDonate\n button.\n\n\nYou choose the amount you want to pay.\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
             "title": "Donate"
         }, 
         {
             "location": "/Donate/Donate/#donate-now", 
-            "text": "", 
+            "text": "Explain how to donate the LenoxBot.   Click on the  Donate  button.  You choose the amount you want to pay.  You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
             "title": "Donate now!"
         }, 
         {
@@ -42,13 +42,13 @@
         }, 
         {
             "location": "/General FAQ/Bot/My credits are gone/", 
-            "text": "My credits are gone\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
+            "text": "My credits are gone, what can I do?\n\n\nRarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.\n\n\nThat's why we ask you to create a ticket (\n?ticket\n) on the LenoxBot Discord Server with the following informations:\n\n\n\n\nYour discord username \n\n\nYour UserID\n\n\nWhen did you have your credits? \n\n\nWhich commands did you use before your credits disappear?\n\n\n\n\nIn any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
             "title": "My credits are gone"
         }, 
         {
-            "location": "/General FAQ/Bot/My credits are gone/#my-credits-are-gone", 
+            "location": "/General FAQ/Bot/My credits are gone/#my-credits-are-gone-what-can-i-do", 
             "text": "Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.  That's why we ask you to create a ticket ( ?ticket ) on the LenoxBot Discord Server with the following informations:   Your discord username   Your UserID  When did you have your credits?   Which commands did you use before your credits disappear?   In any case, in which the credits have disappeared, we will refund them, so don't worry about that!", 
-            "title": "My credits are gone"
+            "title": "My credits are gone, what can I do?"
         }, 
         {
             "location": "/General FAQ/Bot/Reminder of daily/", 
@@ -292,12 +292,12 @@
         }, 
         {
             "location": "/Tutorials/Invite LenoxBot/", 
-            "text": "Invite LenoxBot\n\n\nExplain how to invite the bot on a discord server", 
+            "text": "Invite LenoxBot\n\n\nWe now explain how you can invite the LenoxBot to your Discord Server!\n\n\n\n\nClick on the \nInvite\n Button.\n\n\nSelect the Server by clicking on \"Select a Server\".\n\n\nWhen you selected the Server you click on \"Authorize\" and the Bot automatically joins your Server.", 
             "title": "Invite LenoxBot"
         }, 
         {
             "location": "/Tutorials/Invite LenoxBot/#invite-lenoxbot", 
-            "text": "Explain how to invite the bot on a discord server", 
+            "text": "We now explain how you can invite the LenoxBot to your Discord Server!   Click on the  Invite  Button.  Select the Server by clicking on \"Select a Server\".  When you selected the Server you click on \"Authorize\" and the Bot automatically joins your Server.", 
             "title": "Invite LenoxBot"
         }, 
         {
