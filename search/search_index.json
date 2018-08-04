@@ -21,16 +21,6 @@
             "title": "Getting started"
         }, 
         {
-            "location": "/Donate/Donate/", 
-            "text": "Donate now!\n\n\nExplain how to donate the LenoxBot.\n\n\n\n\nClick on the \nDonate\n button.\n\n\nYou choose the amount you want to pay.\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
-            "title": "Donate"
-        }, 
-        {
-            "location": "/Donate/Donate/#donate-now", 
-            "text": "Explain how to donate the LenoxBot.   Click on the  Donate  button.  You choose the amount you want to pay.  You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
-            "title": "Donate now!"
-        }, 
-        {
             "location": "/General FAQ/Bot/Earn credits/", 
             "text": "How to earn credits?", 
             "title": "Earn credits"
@@ -59,6 +49,16 @@
             "location": "/General FAQ/Bot/Reminder of daily/#reminder-of-daily", 
             "text": "You want a reminder for your daily rewards? That's no problem!\nUse the command  ?dailyremind  and your daily reminder is activated.   If you want to delete the daily reminder, you must only use the command again.\nYou don't understand the command? Use  ?help dailyremind :", 
             "title": "Reminder of daily"
+        }, 
+        {
+            "location": "/General FAQ/Donate/Donate/", 
+            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\nIMAGE\n\n\n\n\nYou choose the amount you want to pay.\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
+            "title": "Donate"
+        }, 
+        {
+            "location": "/General FAQ/Donate/Donate/#donate-now", 
+            "text": "Click on the  Donate  button in the navigation bar on top of  our website .  IMAGE   You choose the amount you want to pay.  You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
+            "title": "Donate now!"
         }, 
         {
             "location": "/General FAQ/Help/Make a proposal/", 
