@@ -22,12 +22,12 @@
         }, 
         {
             "location": "/General FAQ/Bot/Earn credits/", 
-            "text": "How to earn credits?", 
+            "text": "How to earn credits?\n\n\nYou can earn credits in different ways!\n\n\n\n\n?daily\n (?d) you can earn 400 credits all 24 hours.\n\n\n?loot\n (?l) you can earn random credits and random items all 10 minutes.\n\n\n?job\n you decide your job with typing a number between 1 \n 10 then you wait untill the job has completed, than you earn a random ammout of credits. (Profi tip: The longer the job, the more credits you get.)\n\n\nYou can earn between 100-1000 credits by clicking on the \nVote\n button and vote for the bot. (In the weekend you can receive between 200 and 2000 credits for upvoting the bot)\n\n\nYou can earn 100 credits by reporting a bug on the \nLenoxBot Discord server\n.\n\n\nYou can earn 100 credits by writing a suggestion on the \nLenoxBot Discord server\n.", 
             "title": "Earn credits"
         }, 
         {
             "location": "/General FAQ/Bot/Earn credits/#how-to-earn-credits", 
-            "text": "", 
+            "text": "You can earn credits in different ways!   ?daily  (?d) you can earn 400 credits all 24 hours.  ?loot  (?l) you can earn random credits and random items all 10 minutes.  ?job  you decide your job with typing a number between 1   10 then you wait untill the job has completed, than you earn a random ammout of credits. (Profi tip: The longer the job, the more credits you get.)  You can earn between 100-1000 credits by clicking on the  Vote  button and vote for the bot. (In the weekend you can receive between 200 and 2000 credits for upvoting the bot)  You can earn 100 credits by reporting a bug on the  LenoxBot Discord server .  You can earn 100 credits by writing a suggestion on the  LenoxBot Discord server .", 
             "title": "How to earn credits?"
         }, 
         {
@@ -52,12 +52,12 @@
         }, 
         {
             "location": "/General FAQ/Donate/Donate/", 
-            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\nIMAGE\n\n\n\n\nYou choose the amount you want to pay.\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
+            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\n\n\nIn the next step, you need the amount that you want to pay!\n\n\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
             "title": "Donate"
         }, 
         {
             "location": "/General FAQ/Donate/Donate/#donate-now", 
-            "text": "Click on the  Donate  button in the navigation bar on top of  our website .  IMAGE   You choose the amount you want to pay.  You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
+            "text": "Click on the  Donate  button in the navigation bar on top of  our website .   In the next step, you need the amount that you want to pay!   You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
             "title": "Donate now!"
         }, 
         {
@@ -142,12 +142,12 @@
         }, 
         {
             "location": "/General FAQ/Team/Documentation-Moderator/", 
-            "text": "How to become a Documentation-Moderator of LenoxBot?", 
+            "text": "How to become a Documentation-Moderator of LenoxBot?\n\n\nYou want to be a \nDocumentation-Moderator\n? You can apply here: \nApply", 
             "title": "Documentation-Moderator"
         }, 
         {
             "location": "/General FAQ/Team/Documentation-Moderator/#how-to-become-a-documentation-moderator-of-lenoxbot", 
-            "text": "", 
+            "text": "You want to be a  Documentation-Moderator ? You can apply here:  Apply", 
             "title": "How to become a Documentation-Moderator of LenoxBot?"
         }, 
         {
@@ -292,12 +292,12 @@
         }, 
         {
             "location": "/Tutorials/Invite LenoxBot/", 
-            "text": "Invite LenoxBot\n\n\nWe now explain how you can invite the LenoxBot to your Discord Server!\n\n\n\n\nClick on the \nInvite\n Button.\n\n\nSelect the Server by clicking on \"Select a Server\".\n\n\nWhen you selected the Server you click on \"Authorize\" and the Bot automatically joins your Server.", 
+            "text": "Invite LenoxBot\n\n\nWe now explain how you can invite the LenoxBot to your Discord Server!\n\n\n\n\nClick on the \nInvite\n button.\n\n\nSelect the server by clicking on \"Select a server\".\n\n\nWhen you selected the server you click on \"Authorize\" and the bot automatically joins your server.", 
             "title": "Invite LenoxBot"
         }, 
         {
             "location": "/Tutorials/Invite LenoxBot/#invite-lenoxbot", 
-            "text": "We now explain how you can invite the LenoxBot to your Discord Server!   Click on the  Invite  Button.  Select the Server by clicking on \"Select a Server\".  When you selected the Server you click on \"Authorize\" and the Bot automatically joins your Server.", 
+            "text": "We now explain how you can invite the LenoxBot to your Discord Server!   Click on the  Invite  button.  Select the server by clicking on \"Select a server\".  When you selected the server you click on \"Authorize\" and the bot automatically joins your server.", 
             "title": "Invite LenoxBot"
         }, 
         {
